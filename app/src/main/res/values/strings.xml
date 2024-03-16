@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Менеджер паролей</string>
+    <string name="invalid_password">Неверный пароль</string>
+    <string name="website_address">Адрес сайта</string>
+    <string name="login">Логин</string>
+    <string name="save">Сохранить</string>
+    <string name="account">Аккаунт</string>
+    <string name="master_password">Мастер ключ</string>
+    <string name="web_site_icon">Web site icon</string>
+    <string name="saved">Сохранено</string>
+    <string name="empty_field">Поле не должно быть пустым</string>
+    <string name="password_mismatch">Пароли не совпадают</string>
+    <string name="repeat_password">Повторите пароль</string>
+</resources>
